@@ -1,2 +1,16 @@
 # HackMe
- A simple program with intentional flaws, have fun :)
+###### A simple exploitable application to test your beginner skills in rverse engineering, exploiting, and bug finding.
+have fun!
+
+### How to start?
+Start by downloading this repo, then in the Stages folder you will see the currently avalible programs,
+Select your stage and get to work, underneeth this youll see an objectives list, and some basic rules.
+
+## Stage1 - Beginner - Objectives and rules
+
+### Rules
+* Dont directly modify the source of the main EXE file.
+
+### Objectives
+* Alter your score
+* Change the title and/or other visual elements
