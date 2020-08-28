@@ -6,7 +6,7 @@ have fun!
 Start by downloading this repo, then in the Stages folder you will see the currently avalible programs,
 Select your stage and get to work, underneeth this youll see an objectives list, and some basic rules.
 
-## Stage1 - Beginner - Objectives and rules
+## Stage1 - Beginner - Objectives, rules and tools
 
 ### Rules
 * Dont directly modify the source of the main EXE file.
@@ -14,3 +14,11 @@ Select your stage and get to work, underneeth this youll see an objectives list,
 ### Objectives
 * Alter your score
 * Change the title and/or other visual elements
+
+### Tools
+* Visual Studio [Download](https://visualstudio.microsoft.com/downloads/)
+* a .NET decompiler [Download](https://www.jetbrains.com/decompiler/download/#section=web-installer)
+* Basic Visual Basic .NET skills
+
+### Info
+* Everything is written in VisualBasic
